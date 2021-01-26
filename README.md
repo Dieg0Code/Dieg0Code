@@ -23,7 +23,7 @@ func main() {                                                   //    ⠀⠀⠀�
 								//    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠈⠋⠁⠠⠁⠀⠈⠁⠀⠀⠀⠀⠀⠀
 func GetBio() Bio {
   return Bio{                  
-     "- ⚡ Quick bio:":                    "Hi i'm Diego, from Chile, i'm a Software Developer Student/Coder/Programmer/Nerd/Geek 😎😎",
+     "- ⚡ Quick bio:":                    "Hi i'm Diego, from Chile, i'm a Software Developer Student/Coder 😎😎",
      "- 🔭 I’m currently working on":      "Improve my coding skills 👌👌",
      "- 🌱 I’m currently learning":        "Golang, Rust, JavaScript, Kotlin, Java, Backend, BlockChain Technology 💻💻",
      "- 👯 I’m looking to collaborate on": "Golang, Rust, Kotlin, Java, JavaScript",
