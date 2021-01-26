@@ -24,12 +24,12 @@ func main() {                                                   	//    ⠀⠀⠀
 func GetBio() Bio {
   return Bio{                  
      "- ⚡ Quick bio:":                    "Hi i'm Diego, from Chile, i'm a Software Developer Student/Coder/Techy 😎😎",
-     "- 🔭 I’m currently working on":      "Improve my coding skills 👌👌",
-     "- 🌱 I’m currently learning":        "Golang, Rust, JavaScript, Kotlin, Java, Backend, Android Development 💻💻",
-     "- 👯 I’m looking to collaborate on": "Golang, Rust, Kotlin, Java, JavaScript",
+     "- 🔭 I’m currently working on":      "Improving my Coding Skills 💻💻",
+     "- 🌱 I’m currently learning":        "Golang, Rust, JavaScript, Kotlin, Java, Backend, Android Development 🧠🧠",
+     "- 👯 I’m looking to collaborate on": "Golang, Rust, Kotlin, Java, JavaScript 😉😉",
      "- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-     "- 💬 Ask me about":                  "Java, Kotlin, Rust, Android",
-     "- 📫 How to reach me:":              "twitter.com/Diegoobando0, linkedin.com/in/diego-obando-157809191",
+     "- 💬 Ask me about":                  "Java, Kotlin, Rust, Android" 👍👍,
+     "- 📫 How to reach me:":              "twitter.com/Diegoobando0, linkedin.com/in/diego-obando-157809191 🤙🤙",
   }
 }
 ```
