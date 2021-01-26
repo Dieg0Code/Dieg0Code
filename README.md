@@ -29,7 +29,7 @@ func GetBio() Bio {
      "- 👯 I’m looking to collaborate on": "Golang, Rust, Kotlin, Java, JavaScript",
      "- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
      "- 💬 Ask me about":                  "Java, Kotlin, Rust, Android",
-     "- 📫 How to reach me:":              "twitter.com/Diegoobando0", linkedin.com/in/diego-obando-157809191,
+     "- 📫 How to reach me:":              "twitter.com/Diegoobando0, linkedin.com/in/diego-obando-157809191",
   }
 }
 ```
