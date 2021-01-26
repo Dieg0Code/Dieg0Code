@@ -33,3 +33,6 @@ func GetBio() Bio {
   }
 }
 ```
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dieg0Code&theme=tokyonight)
+
