@@ -23,7 +23,7 @@ func main() {                                                   //    ⠀⠀⠀�
 								//    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠈⠋⠁⠠⠁⠀⠈⠁⠀⠀⠀⠀⠀⠀
 func GetBio() Bio {
   return Bio{                  
-     "- ⚡ Quick bio:":                    "Hi i'm Diego, from Chile, i'm a Software Developer Student/Coder 😎😎",
+     "- ⚡ Quick bio:":                    "Hi i'm Diego, from Chile, i'm a Software Developer Student/Coder/Techy 😎😎",
      "- 🔭 I’m currently working on":      "Improve my coding skills 👌👌",
      "- 🌱 I’m currently learning":        "Golang, Rust, JavaScript, Kotlin, Java, Backend, Android Development 💻💻",
      "- 👯 I’m looking to collaborate on": "Golang, Rust, Kotlin, Java, JavaScript",
@@ -35,7 +35,7 @@ func GetBio() Bio {
 ```
 ## :trophy: My GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dieg0Code&show_icons=true&theme=tokyonight)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dieg0Code&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dieg0Code&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dieg0Code&theme=tokyonight)
 
 
 
