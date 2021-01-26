@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 🖖🖖🖖 I´m Diego
 
-<!--
-**Dieg0Code/Dieg0Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```ascii
 
-Here are some ideas to get you started:
+                     `. ___
+                    __,' __`.                _..----....____
+        __...--.'``;.   ,.   ;``--..__     .'    ,-._    _.-'
+  _..-''-------'   `'   `'   `'     O ``-''._   (,;') _,'
+,'________________                          \`-._`-','
+ `._              ```````````------...___   '-.._'-:
+    ```--.._      ,.                     ````--...__\-.
+            `.--. `-`                       ____    |  |`
+              `. `.                       ,'`````.  ;  ;`
+                `._`.        __________   `.      \'__/`
+                   `-:._____/______/___/____`.     \  `
+                               |       `._    `.    \
+                               `._________`-.   `.   `.___
+                                             SSt  `------'`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```
