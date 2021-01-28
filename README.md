@@ -35,7 +35,7 @@ func GetBio() Bio {
 ```
 ## :trophy: My GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dieg0Code&show_icons=true&theme=vue-dark)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dieg0Code)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dieg0Code&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dieg0Code&theme=vue-dark)![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dieg0Code&show_icons=true&theme=vue-dark)
+
 
 
