@@ -25,8 +25,8 @@ func GetBio() Bio {
   return Bio{                  
      "- ⚡ Quick bio:":                    "Hi i'm Diego, from Chile, i'm a Junior Software Developer/Coder/Techy/Nerd 😎",
      "- 🔭 I’m currently working on":      "Improving my Coding Skills 💻💻",
-     "- 🌱 I’m currently learning":        "Golang, Rust, JavaScript, Kotlin, Java, BlockChain, Android Development 🧠🧠",
-     "- 👯 I’m looking to collaborate on": "Golang, Rust, Kotlin, Java, JavaScript 😉😉",
+     "- 🌱 I’m currently learning":        "Kotlin, Java, Android Development 🧠🧠",
+     "- 👯 I’m looking to collaborate on": "Kotlin, Java, Android 😉😉",
      "- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
      "- 💬 Ask me about":                  "Java, Kotlin, Rust, Android" 👍👍,
      "- 📫 How to reach me:":              "twitter.com/Diegoobando0, linkedin.com/in/diego-obando-157809191 🤙🤙",
