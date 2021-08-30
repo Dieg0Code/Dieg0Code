@@ -3,14 +3,16 @@
 ```rust
 use std::collections::HashMap;
 
+type Bio = HashMap<&'static str, &'static str>;
+
 fn main() {
     for (k, v) in &bio() {
         println!("{}{}", k, v);
     }
 }
 
-fn bio() -> HashMap<&'static str, &'static str> {
-    let mut bio: HashMap<&str, &str> = HashMap::new();
+fn bio() -> Bio {
+    let mut bio: Bio = HashMap::new();
 
     bio.insert(
         "- ⚡ Quick bio: ",
