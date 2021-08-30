@@ -4,41 +4,41 @@
 use std::collections::HashMap;
 
 fn main() {
-    for (key, value) in &new_bio() {
+    for (key, value) in &bio() {
         println!("{}{}", key, value);
     }
 }
 
-fn new_bio() -> HashMap<&'static str, &'static str> {
-    let mut my_bio: HashMap<&str, &str> = HashMap::new();
+fn bio() -> HashMap<&'static str, &'static str> {
+    let mut bio: HashMap<&str, &str> = HashMap::new();
 
-    my_bio.insert(
+    bio.insert(
         "- ⚡ Quick bio: ",
         "Hi i'm Diego, from Chile, i'm a Software Developer/Coder/Techy/Nerd/Student 😎",
     );
-    my_bio.insert(
+    bio.insert(
         "- 🔭 I’m currently working on: ",
         "Improving my Coding Skills 💻💻",
     );
-    my_bio.insert(
+    bio.insert(
         "- 📚 I’m currently Learning: ", 
         "Rust, Kotlin, Java 🧠🧠");
-    my_bio.insert(
+    bio.insert(
         "- 👯 I’m looking to collaborate on: ",
         "Rust, Kotlin, Java 😉😉",
     );
-    my_bio.insert(
+    bio.insert(
         "- 🤔 I’m looking for help with: ",
         "Anything related to what I am currently learning 😅",
     );
-    my_bio.insert(
+    bio.insert(
         "- 💬 Ask me about: ", 
         "Java, Kotlin, Rust, Android 👍👍");
-    my_bio.insert(
+    bio.insert(
         "- 📝 Contact me at: ",
         "twitter.com/Diegoobando0, linkedin.com/in/diego-obando-157809191 🤙🤙",
     );
-    my_bio
+    bio
 }
 ```
 ## :trophy: My GitHub Stats
