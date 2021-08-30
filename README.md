@@ -1,6 +1,8 @@
 ### Hi there 🖖🖖🖖 I´m Diego
 
 ```rust
+// Rust
+
 use std::collections::HashMap;
 
 type Bio = HashMap<&'static str, &'static str>;
