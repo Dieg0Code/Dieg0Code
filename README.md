@@ -4,8 +4,8 @@
 use std::collections::HashMap;
 
 fn main() {
-    for (key, value) in &bio() {
-        println!("{}{}", key, value);
+    for (k, v) in &bio() {
+        println!("{}{}", k, v);
     }
 }
 
