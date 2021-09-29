@@ -8,7 +8,7 @@ use std::collections::HashMap;
 type Bio = HashMap<&'static str, &'static str>;
 
 fn main() {
-    for (k, v) in &bio() {
+    for (k, v) in bio().iter() {
         println!("{}{}", k, v);
     }
 }
