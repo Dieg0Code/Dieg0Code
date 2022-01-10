@@ -2,6 +2,7 @@
 
 ```rust
 // Rust
+// Run this on https://play.rust-lang.org/
 
 use std::collections::HashMap;
 
