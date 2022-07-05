@@ -19,7 +19,7 @@ fn bio() -> Bio {
 
     bio.insert(
         "- ⚡ Quick bio: ",
-        "Hi i'm Diego, from Chile, i'm a Software Developer/Coder/Techy/Nerd/Student 😎", //  ⣀⣤⡤
+        "Hi i'm Diego, i'm from Chile, i'm currently 26 years old...Nice to meet you!! 😄" //  ⣀⣤⡤
     );                                                                       //            ⢀⣾⣿⠋
     bio.insert(                                                              //          ⣠⣾⣿⡟
         "- 🔭 I’m currently working on: ",                                  //         ⢸⠛⠉⢹⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠄⠠⣀
