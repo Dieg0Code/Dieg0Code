@@ -22,7 +22,7 @@ fn bio() -> Bio {
         "👋 About Me :\n",
         "Hi there! 👋
         I'm Diego, a programming student with a passion for mobile development 📱 and cybersecurity 💻. 
-        I believe programming is a tool that enables us to turn our ideas 💡 into reality ✨ (and 💲), and I enjoy
+        I believe programming is a tool that enables us to turn our ideas 💡 into reality ✨ (and 💸), and I enjoy
         exploring how we can use technology to solve real-world problems 🤔."
     );
 
