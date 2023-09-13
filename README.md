@@ -52,7 +52,7 @@ fn bio() -> Bio {
 ```
 ## :trophy: My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dieg0Code&theme=vue-dark)![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dieg0Code&show_icons=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dieg0Code&theme=vue-dark)![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dieg0code&show_icons=true&theme=transparent)
 
 
 
