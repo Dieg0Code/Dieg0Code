@@ -22,60 +22,56 @@ fn bio() -> Bio {
 
     bio.insert(
         "👋 About Me :\n",
-        "Hi there! 👋\n\nI'm Diego, a recent graduate with \n\
-        a Technical Degree in Programming and Systems \n\
-        Analysis from AIEP Institute. I'm passionate 🔥\n\
-        about software development, particularly \n\
-        backend technologies like Java and Spring Boot.\n\n\
-        I believe programming is a powerful tool to \n\
-        turn ideas into reality 💡, and I enjoy exploring \n\
-        how we can use technology to solve real-world \n\
-        problems efficiently and innovatively. 🚀\n"
+        "Hi there! 👋\n\nI'm Diego, a passionate 🔥 and skilled \n\
+        software developer specializing in backend \n\
+        technologies. With a recent technical degree 🎓\n\
+        in Programming and Systems Analysis, I'm ready \n\
+        to tackle challenging projects.\n\n\
+        I believe programming is a powerful tool to bring \n\
+        ideas to life 💡, and I strive to create efficient \n\
+        and innovative solutions for real-world problems. 🌐\n"
     );
 
     bio.insert(
-        "# 💻 My Interests :\n",
-        "As a backend developer, I'm fascinated by \n\
-        designing and building robust APIs 🌐, working \n\
-        with databases 📂, and implementing clean \n\
-        architectures 🏗️. I'm also interested in \n\
-        cybersecurity 🔒, cloud computing ☁️, and exploring \n\
-        the latest industry trends and best practices. 🆕\n"
+        "# 💻 My Expertise :\n",
+        "As a backend developer, I excel in designing and \n\
+        building robust APIs 🌐, working with databases 📂,\n\
+        and implementing clean architectures 🏗️. I'm also \n\
+        passionate about cybersecurity 🔒, cloud computing ☁️,\n\
+        and staying up-to-date with industry trends. 🆕\n"
     );
 
     bio.insert(
-        "# 🚀 My Experience :\n",
-        "I've had the opportunity to work as a Backend \n\
-        Developer at WorkCapIT, where I gained \n\
-        hands-on experience with Java 17, Spring Boot, \n\
-        PostgreSQL, and Git version control. I also \n\
-        completed an internship as a Software Engineer, \n\
+        "# 🚀 Experience & Projects :\n",
+        "I've gained hands-on experience working as a \n\
+        Backend Developer, utilizing Java 17, Spring Boot,\n\
+        PostgreSQL, and Git version control. Additionally,\n\
+        I completed an internship as a Software Engineer, \n\
         developing with Node.js, Express, and TypeScript.\n\n\
-        You can find some of my personal projects 💻\n\
-        showcased on this GitHub profile, where I \n\
-        share coding exercises, experiments, and \n\
-        ongoing learning. 📚\n"
+        Check out my GitHub profile to explore personal \n\
+        projects 💻 where I showcase coding exercises, \n\
+        experiments, and continuous learning endeavors. 📚\n"
     );
 
     bio.insert(
-        "# 📜 Certifications & Skills :\n",
-        "In addition to my technical degree, I've \n\
-        completed several online courses and \n\
-        certifications related to Java, Kotlin, \n\
-        JavaScript, Android development, and \n\
-        Object-Oriented Programming. My primary \n\
-        technical skills include TypeScript, Java, \n\
-        Spring Boot, and I'm always eager to learn more. 📈\n"
+        "# 📜 Skills & Certifications :\n",
+        "In addition to my degree, I've completed several \n\
+        online courses and certifications in Java, Kotlin,\n\
+        JavaScript, Android development, and Object-Oriented\n\
+        Programming. My core technical skills include \n\
+        TypeScript, Java, Spring Boot, and a passion for \n\
+        continuous learning and growth. 📈\n"
     );
 
     bio.insert(
-        "# 📞 Contact Me :\n",
-        "If you'd like to get in touch with me, you \n\
-        can find me on LinkedIn at \n\
-        https://www.linkedin.com/in/diego-obando/. \n\
-        I'm open to new opportunities 💼, collaborations 🤝, \n\
-        or just to connect and discuss technology. 🗣️\n\
-        Let's explore what we can create together! 🚀\n"
+        "# 📫 Let's Connect :\n",
+        "I'm actively seeking new opportunities 💼 to \n\
+        contribute my skills and experience. Feel free \n\
+        to reach out on LinkedIn: \n\
+        https://www.linkedin.com/in/diego-obando/\n\
+        I'm open to collaborations 🤝, discussions about \n\
+        technology 🗣️, and exploring what we can create \n\
+        together. Let's build something amazing! 🚀\n"
     );
 
     bio
