@@ -1,8 +1,10 @@
 ### Hi there 🖖🖖🖖 I´m Diego
 
 ```rust
-// Biography
-// This code is a brief biography about me and my interests in technology.
+// Biography 📗
+
+// This code is an updated biography about me and my interests in technology, based on recent achievements.
+
 // Run this on https://play.rust-lang.org/
 
 use std::collections::HashMap;
@@ -20,31 +22,60 @@ fn bio() -> Bio {
 
     bio.insert(
         "👋 About Me :\n",
-        "Hi there! 👋
-        I'm Diego, a programming student with a passion for mobile development 📱 and cybersecurity 💻. 
-        I believe programming is a tool that enables us to turn our ideas 💡 into reality ✨ (and 💲), and I enjoy
-        exploring how we can use technology to solve real-world problems 🤔."
+        "Hi there! 👋\n\nI'm Diego, a recent graduate with \n\
+        a Technical Degree in Programming and Systems \n\
+        Analysis from AIEP Institute. I'm passionate 🔥\n\
+        about software development, particularly \n\
+        backend technologies like Java and Spring Boot.\n\n\
+        I believe programming is a powerful tool to \n\
+        turn ideas into reality 💡, and I enjoy exploring \n\
+        how we can use technology to solve real-world \n\
+        problems efficiently and innovatively. 🚀\n"
     );
 
     bio.insert(
         "# 💻 My Interests :\n",
-        "As a mobile developer 📱, I love creating intuitive and user-friendly
-        apps that people can use on-the-go 💖. I'm also interested in cybersecurity and how we can protect
-        our systems and data from malicious attacks 🔒."
+        "As a backend developer, I'm fascinated by \n\
+        designing and building robust APIs 🌐, working \n\
+        with databases 📂, and implementing clean \n\
+        architectures 🏗️. I'm also interested in \n\
+        cybersecurity 🔒, cloud computing ☁️, and exploring \n\
+        the latest industry trends and best practices. 🆕\n"
     );
 
     bio.insert(
-        "# 🚀 My Projects :\n",
-        "This GitHub repository is a showcase of my work 🏴‍☠️, where I share
-        projects I've been working on, ideas I'm exploring, and concepts I'm learning 📝.
-        If you're looking for a programming student who's passionate, hardworking, and curious, then look no further 😎.
-        Let's connect and explore the possibilities of what we can create together! 💻"
+        "# 🚀 My Experience :\n",
+        "I've had the opportunity to work as a Backend \n\
+        Developer at WorkCapIT, where I gained \n\
+        hands-on experience with Java 17, Spring Boot, \n\
+        PostgreSQL, and Git version control. I also \n\
+        completed an internship as a Software Engineer, \n\
+        developing with Node.js, Express, and TypeScript.\n\n\
+        You can find some of my personal projects 💻\n\
+        showcased on this GitHub profile, where I \n\
+        share coding exercises, experiments, and \n\
+        ongoing learning. 📚\n"
+    );
+
+    bio.insert(
+        "# 📜 Certifications & Skills :\n",
+        "In addition to my technical degree, I've \n\
+        completed several online courses and \n\
+        certifications related to Java, Kotlin, \n\
+        JavaScript, Android development, and \n\
+        Object-Oriented Programming. My primary \n\
+        technical skills include TypeScript, Java, \n\
+        Spring Boot, and I'm always eager to learn more. 📈\n"
     );
 
     bio.insert(
         "# 📞 Contact Me :\n",
-        "If you'd like to get in touch with me, you can find me
-        on LinkedIn at https://www.linkedin.com/in/diego-obando/. I'm looking forward to hearing from you!"
+        "If you'd like to get in touch with me, you \n\
+        can find me on LinkedIn at \n\
+        https://www.linkedin.com/in/diego-obando/. \n\
+        I'm open to new opportunities 💼, collaborations 🤝, \n\
+        or just to connect and discuss technology. 🗣️\n\
+        Let's explore what we can create together! 🚀\n"
     );
 
     bio
