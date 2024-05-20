@@ -1,85 +1,27 @@
 ### Hi there 🖖🖖🖖 I´m Diego
 
-```rust
-// Biography 📗
+[![Instagram Badge](https://img.shields.io/badge/-@d13g0_._._-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/d13g0_._._/)](https://www.instagram.com/d13g0_._._/) [![Linkedin Badge](https://img.shields.io/badge/diegoobando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-obando/)](https://www.linkedin.com/in/diego-obando/)
 
-// This code is an updated biography about me and my interests in technology, based on recent achievements.
+---
 
-// Run this on https://play.rust-lang.org/
+![Welcome GIF](./assets/terminalGif.gif)
 
-use std::collections::HashMap;
+Hi 👋 I'm Diego, a software developer from Chile. My expertise lies in backend development, including databases, APIs, microservices, and everything in between. I'm passionate about programming and always eager to learn and develop innovative solutions. I enjoy turning complex problems into simple, beautiful, and intuitive code. Let's connect and build something amazing!
 
-type Bio = HashMap<&'static str, &'static str>;
+## 🛠️ Technologies & Tools
 
-fn main() {
-    for (k, v) in bio().iter() {
-        println!("{}{}", k, v);
-    }
-}
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)](https://www.java.com/) 
+[![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/) [![Maven Badge](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)](https://maven.apache.org/) [![Hibernate Badge](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)](https://hibernate.org/) [![JUnit Badge](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+[![Mockito Badge](https://img.shields.io/badge/Mockito-3A79B5?style=flat-square&logo=mockito&logoColor=white)](https://site.mockito.org/)
+ [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) 
 
-fn bio() -> Bio {
-    let mut bio: Bio = HashMap::new();
 
-    bio.insert(
-        "👋 About Me :\n",
-        "Hi there! 👋\n\nI'm Diego, a passionate 🔥 and skilled \n\
-        software developer specializing in backend \n\
-        technologies. With a recent technical degree 🎓\n\
-        in Programming and Systems Analysis, I'm ready \n\
-        to tackle challenging projects.\n\n\
-        I believe programming is a powerful tool to bring \n\
-        ideas to life 💡, and I strive to create efficient \n\
-        and innovative solutions for real-world problems. 🌐\n"
-    );
-
-    bio.insert(
-        "# 💻 My Expertise :\n",
-        "As a backend developer, I excel in designing and \n\
-        building robust APIs 🌐, working with databases 📂,\n\
-        and implementing clean architectures 🏗️. I'm also \n\
-        passionate about cybersecurity 🔒, cloud computing ☁️,\n\
-        and staying up-to-date with industry trends. 🆕\n"
-    );
-
-    bio.insert(
-        "# 🚀 Experience & Projects :\n",
-        "I've gained hands-on experience working as a \n\
-        Backend Developer, utilizing Java 17, Spring Boot,\n\
-        PostgreSQL, and Git version control. Additionally,\n\
-        I completed an internship as a Software Engineer, \n\
-        developing with Node.js, Express, and TypeScript.\n\n\
-        Check out my GitHub profile to explore personal \n\
-        projects 💻 where I showcase coding exercises, \n\
-        experiments, and continuous learning endeavors. 📚\n"
-    );
-
-    bio.insert(
-        "# 📜 Skills & Certifications :\n",
-        "In addition to my degree, I've completed several \n\
-        online courses and certifications in Java, Kotlin,\n\
-        JavaScript, Android development, and Object-Oriented\n\
-        Programming. My core technical skills include \n\
-        TypeScript, Java, Spring Boot, and a passion for \n\
-        continuous learning and growth. 📈\n"
-    );
-
-    bio.insert(
-        "# 📫 Let's Connect :\n",
-        "I'm actively seeking new opportunities 💼 to \n\
-        contribute my skills and experience. Feel free \n\
-        to reach out on LinkedIn: \n\
-        https://www.linkedin.com/in/diego-obando/\n\
-        I'm open to collaborations 🤝, discussions about \n\
-        technology 🗣️, and exploring what we can create \n\
-        together. Let's build something amazing! 🚀\n"
-    );
-
-    bio
-}
-```
-## 🏴‍☠️ My GitHub Stats
+## 📊 My GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dieg0Code&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=pie)![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dieg0code&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
 
 
+### 📬 Contact Me
 
+[![Linkedin Badge](https://img.shields.io/badge/diegoobando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-obando/)](https://www.linkedin.com/in/diego-obando/)
+[![Instagram Badge](https://img.shields.io/badge/-@d13g0_._._-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/d13g0_._._/)](https://www.instagram.com/d13g0_._._/) [![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=mailto:diegoobando20@proton.me)](mailto:diegoobando20@proton.me)
