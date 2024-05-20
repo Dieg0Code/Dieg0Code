@@ -22,9 +22,6 @@ Hi 👋 I'm Diego, a software developer from Chile. My expertise lies in backend
 
 
 ### 📬 Contact Me
-### 📬 Contact Me
 
-[![Linkedin Badge](https://img.shields.io/badge/diegoobando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-obando/)](https://www.linkedin.com/in/diego-obando/)
-[![Instagram Badge](https://img.shields.io/badge/-@d13g0_._._-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/d13g0_._._/)](https://www.instagram.com/d13g0_._._/) [![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=mailto:diegoobando20@proton.me)](mailto:diegoobando20@proton.me)
 [![Linkedin Badge](https://img.shields.io/badge/diegoobando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-obando/)](https://www.linkedin.com/in/diego-obando/)
 [![Instagram Badge](https://img.shields.io/badge/-@d13g0_._._-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/d13g0_._._/)](https://www.instagram.com/d13g0_._._/) [![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=mailto:diegoobando20@proton.me)](mailto:diegoobando20@proton.me)
