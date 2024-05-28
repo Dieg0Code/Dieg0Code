@@ -18,7 +18,7 @@ Hi 👋 I'm Diego, a software developer from Chile. My expertise lies in backend
 
 ## 📊 My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dieg0Code&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=pie) ![Profile views](https://gpvc.arturio.dev/Dieg0Code)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dieg0Code&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=pie)![Visitor Badge](https://komarev.com/ghpvc/?username=Dieg0Code&color=blue)
 
 
 
