@@ -1,5 +1,5 @@
 
-# Hi there, I'm Diego! 👋
+# 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=2000&color=FF5733&background=1A1A1A&width=700&height=100&lines=Hi%2C+i'm+Diego;&center=true&vCenter=true&repeat=true)](https://git.io/typing-svg)
 
 [![Instagram Badge](https://img.shields.io/badge/-@d13g0_._._-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/d13g0_._._/)](https://www.instagram.com/d13g0_._._/) [![Linkedin Badge](https://img.shields.io/badge/diegoobando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-obando/)](https://www.linkedin.com/in/diego-obando/)
