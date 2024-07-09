@@ -1,6 +1,6 @@
 
-# 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=2000&color=FF5733&background=1A1A1A&width=700&height=100&lines=Hi%2C+i'm+Diego;&center=true&vCenter=true&repeat=true)](https://git.io/typing-svg)
+# Welcome to my GitHub profile! 👋
+![Me](./assets/mecoding.gif)
 ## Socials ✉
 
 [![Instagram Badge](https://img.shields.io/badge/-@d13g0________-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/d13g0________/)](https://www.instagram.com/d13g0________/) [![Linkedin Badge](https://img.shields.io/badge/diegoobando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-obando/)](https://www.linkedin.com/in/diego-obando/)
@@ -9,7 +9,11 @@
 
 ## 👨‍💻 About Me
 
-Hi 👋 I'm Diego, a passionate software developer from Chile. I specialize in backend development, including databases, APIs, and microservices. I love solving complex problems and creating simple, beautiful, and intuitive code. Let’s connect and build something amazing together!
+Hi 👋 I'm Diego. I'm a programmer, coder, software developer (whatever you wanna call it). I basically build software or at least try it. I'm mainly specialized in the ``backend`` side, ``Java``, ``Go``, ``REST``, ``Docker``, ``Databases``, all that stuffs. Currently learning ``Devops`` and ``Cloud`` with ``Terraform`` (i love terraform btw).
+
+I also do ``Pixel art``, i'm not a pro but enjoy it. So if you dig in my repos you'll find some of my pixel art projects.
+
+I hope you can find something useful in my repos, if you do, please let me know, i'll be glad to hear that.
 
 ## 🛠️ Technologies & Tools
 
@@ -18,7 +22,3 @@ Hi 👋 I'm Diego, a passionate software developer from Chile. I specialize in b
 ## 📊 My GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dieg0Code&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact) ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Dieg0Code&theme=darkhub)
-
-## 📬 Contact Me
-
-[![Linkedin Badge](https://img.shields.io/badge/diegoobando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-obando/)](https://www.linkedin.com/in/diego-obando/) [![Instagram Badge](https://img.shields.io/badge/-@d13g0_._._-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/d13g0_._._/)](https://www.instagram.com/d13g0_._._/) [![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=mailto:diegoobando20@proton.me)](mailto:diegoobando20@proton.me)
