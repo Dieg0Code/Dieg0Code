@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-Hi 👋 I'm Diego. I'm a programmer, coder, software developer (whatever you wanna call it). I basically build software or at least try it. I'm mainly specialized in the ``backend`` side, ``Java``, ``Go``, ``REST``, ``Docker``, ``Databases``, all that stuffs. Currently learning ``Devops`` and ``Cloud`` with ``Terraform`` (i love terraform btw).
+Hi 👋 I'm Diego. I'm a programmer, coder, software developer (whatever you wanna name it). I basically build software or at least try it. I'm mainly specialized in the ``backend`` side, ``Java``, ``Go``, ``REST``, ``Docker``, ``Databases``, all that stuffs. Currently learning ``Devops`` and ``Cloud`` with ``Terraform`` (i love terraform btw).
 
 I also do ``Pixel art``, i'm not a pro but enjoy it. So if you dig in my repos you'll find some of my pixel art projects.
 
