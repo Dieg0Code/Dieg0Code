@@ -1,7 +1,7 @@
 
 ![Me](./assets/mecoding.gif)
 
-[![Instagram Badge](https://img.shields.io/badge/-@d13g0_______-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/d13g0________/)](https://www.instagram.com/d13g0________/) [![Linkedin Badge](https://img.shields.io/badge/diegoobando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-obando/)](https://www.linkedin.com/in/diego-obando/)
+[![Linkedin Badge](https://img.shields.io/badge/diegoobando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-obando/)](https://www.linkedin.com/in/diego-obando/)
 
 ## 👨‍💻 About Me
 
